@@ -32,9 +32,9 @@ Ce dépôt présente un projet de nettoyage de données retail, conçu pour tran
 | `screenshots/`              | Images des étapes clés (avant/après, diagnostics, KPI). |
 
 ### Screenshots
-- **[Avant nettoyage](screenshots/avant.png)** : Vue des 5 premières lignes brutes.
-- **[Diagnostics](screenshots/diagnostics.png)** : Analyse des doublons et NaNs.
-- **[Après nettoyage](screenshots/apres.png)** : Vue des 5 premières lignes nettoyées.
-- **[KPI](screenshots/kpi.png)** : Graphique des ventes par catégorie.
+- Vue des 5 premières lignes brutes.
+- Analyse des doublons et NaNs.
+- Vue des 5 premières lignes nettoyées.
+- Graphique des ventes par catégorie.
 
 ---
