@@ -29,8 +29,7 @@ Ce dépôt présente un projet de nettoyage de données retail, conçu pour tran
 | `retail_cleaning.ipynb`     | Notebook Jupyter montrant le processus de nettoyage étape par étape. |
 | `retail_sales_dirty.csv`    | Dataset brut initial avec 8376 lignes.           |
 | `retail_clean.xlsx`         | Dataset nettoyé avec 7579 lignes, prêt à l’emploi. |
-| `screenshots/`              | Images des étapes : avant/après, diagnostics, KPI. |
-| `README.md`                 | Ce fichier, avec détails sur le projet.          |
+| `screenshots/`              | Images des étapes clés (avant/après, diagnostics, KPI). |
 
 ### Screenshots
 - **[Avant nettoyage](screenshots/avant.png)** : Vue des 5 premières lignes brutes.
